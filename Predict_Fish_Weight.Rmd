@@ -191,3 +191,6 @@ The P-value shows to be too large to say that there is a difference between the 
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+In conclusion based on thr automated selection of variables there is no real difference in using a model with two variables versus using one with all of the variables. This was identified through the adjusted rsquared as well as the pvalues. Comparing the Pvalues of the two variables models the pvalues were so small that I reject the null hypothesis. This model is no better than chance. The pvalues associated with the anovas were large and therefore the result is to reject the null hypothesis, there is no difference between using the model with two variables versus the full up models.
+
+
